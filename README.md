@@ -2,3 +2,17 @@
 
 # Neurocomputing
 This repository was created in order to understand artificial neural networks. It is part of the courses of the doctoral program in applied computing at INPE.
+
+We this repository follow this topics.
+
+1. Artificial Inteligence
+2. Perceptron 
+3. Multlayer Perceptron MLP
+4. SOM/LVQ/GNG/PCA
+5. Autoencoders
+6. CNN
+7. RNN
+8. Hopfiled
+9. Boltzmann
+10. GNN
+
