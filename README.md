@@ -3,6 +3,8 @@
 # Neurocomputing
 This repository was created in order to understand artificial neural networks. It is part of the courses of the doctoral program in applied computing at INPE.
 
+(class)[https://classroom.google.com/u/0/c/NTIxODgwMjg5Njgx?hl=pt-BR]
+
 We this repository follow this topics.
 
 1. Artificial Inteligence
